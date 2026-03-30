@@ -28,6 +28,15 @@ point to hook to openapi to auto generate responses, issue -> how to auto mate i
 
 
 
+i think a btn in dash when click it will start scrape so we dont have to do crons.
+
+Make it free? like it is a scraper, but online allow users to scrape and edit it them selfs right? 
+then store in big db for ourselfs? other purpose idk what but we can show data maybe? so each contribute to our way? 
+do not scrape if already scraped? 
+what else to make a good saas? am thinking of a free tool now, we need to get users by make it free now, but later i assume we can expand it to have options where people happy to pay for?
+
+maybe a option to allow LLM connect and auto reply or automate actions? but this might bring complications like a chrome extention that is able to take over pages ect right? so we want a simpel effective saas. i mean we can do it manual right? but reddit has some rules you can not promote or something idk i dont remember the rules, but we can definitely dm them right? 
+what other featyres can we apply fir this? auto scraper per day? emailer ? or what? what is this saass icp and what do we offer what is goal? how do we find the users for our saas? ect right i want you to do deep dive reacsearch for me 
 
 
 
@@ -37,15 +46,36 @@ point to hook to openapi to auto generate responses, issue -> how to auto mate i
 
 
 
+MVP1
+- [ ] Save list of subreddits in dashboard
+- [ ] intent searching for words
+- [ ] scraper use these subreddits to scrape data back
+- [ ] store in DB, drop duplicates
+
+
+- [ ] skip rescrape if x recent
+- [ ] match on search, return only what user wants, example saas pain, look for this saas range or pain point similair
+    apply NLP, NO LLM
+- [ ] make a scoring system eg. keywords score, idea score, engagment ect... = Final score other NLP non ect matching
+- 
+
+- [ ] scrape btn in dashboard
 
 
 
+- [ ] Ladning page Video or ect
+- [ ] Stripe subscription + founder deal
 
 
 
+Basic Reddit Rules Panel
+- [ ] no spam
+- [ ] no direct selling
+- [ ] 90% value, 10% promo
+- [ ] engage before posting
 
 
-
+show 5 a day. then say we found 20 unlock 15 for x 
 
 
 
